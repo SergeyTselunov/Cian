@@ -13,6 +13,12 @@ Apartment price prediction
 | [**Cian_geo**](https://github.com/SergeyTselunov/Cian/blob/main/Cian_geo.ipynb) | В данном блокноте мы производим геокодирование даных для поиска координат домов и метро.|
 | [**Cian_EDA**](https://github.com/SergeyTselunov/Cian/blob/main/Cian_EDA.ipynb) | В данном блокноте мы проводим разведочный анализ данных.
 | [**Cian_ML**](https://github.com/SergeyTselunov/Cian/blob/main/Cian_ML.ipynb) | В данном блокноте мы создаем модель, находим лучшие параметры и делаем предсказания.|
+| [**cian.csv**](https://github.com/SergeyTselunov/Cian/blob/main/cian.csv) |  В данном файле csv содержится датафрейм созданный после парсинга.|
+| [**cian_clean.csv**](https://github.com/SergeyTselunov/Cian/blob/main/cian_clean.csv) | В данном файле csv содержится датафрейм созданный после обработки данных.|
+| [**cian_full.csv**](https://github.com/SergeyTselunov/Cian/blob/main/cian_full.csv) | В данном файле csv содержится датафрейм созданный после геокодирования.|
+| [**cian_final.csv**](https://github.com/SergeyTselunov/Cian/blob/main/cian_final.csv) | В данном файле csv содержится датафрейм созданный после преобразования признаков.|
+| [**url_final.txt**](https://github.com/SergeyTselunov/Cian/blob/main/url_final.txt) | В данном файле содержатся выгруженные ссылки для каждого объявления.|
+| [**get_metrics.py**](https://github.com/SergeyTselunov/Cian/blob/main/get_metrics.py) | В данном файле находятся функции для расчета метрик.|
 
 ## `Наименование признаков`
 - `Название` - Название объявления
